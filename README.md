@@ -1,4 +1,6 @@
 # PROYECTO-ANDROID
+[codificacion karol.pdf](https://github.com/user-attachments/files/26194476/codificacion.karol.pdf)
+
 Codificación: 
 res/ 
 ├─ values/            
